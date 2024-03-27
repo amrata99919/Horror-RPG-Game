@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sTEST",
-    "path":"sprites/sTEST/sTEST.yy",
+    "name":"sCHECKTHIS",
+    "path":"sprites/sCHECKTHIS/sCHECKTHIS.yy",
   },
   "spriteMaskId":null,
   "visible":true,
