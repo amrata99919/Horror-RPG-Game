@@ -23,11 +23,13 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2023.11.0.121",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"Horror RPG game",
   "resources":[
+    {"id":{"name":"oTEST","path":"objects/oTEST/oTEST.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sTEST","path":"sprites/sTEST/sTEST.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
