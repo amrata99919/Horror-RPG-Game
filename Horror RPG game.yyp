@@ -30,6 +30,7 @@
     {"id":{"name":"oTEST","path":"objects/oTEST/oTEST.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sCHECKTHIS","path":"sprites/sCHECKTHIS/sCHECKTHIS.yy",},},
+    {"id":{"name":"sNew","path":"sprites/sNew/sNew.yy",},},
     {"id":{"name":"sTEST","path":"sprites/sTEST/sTEST.yy",},},
   ],
   "resourceType":"GMProject",

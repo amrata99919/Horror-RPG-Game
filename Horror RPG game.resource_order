@@ -10,5 +10,6 @@
   ],
   "ResourceOrderSettings":[
     {"name":"sCHECKTHIS","order":1,"path":"sprites/sCHECKTHIS/sCHECKTHIS.yy",},
+    {"name":"sNew","order":2,"path":"sprites/sNew/sNew.yy",},
   ],
 }

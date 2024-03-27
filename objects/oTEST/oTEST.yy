@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sCHECKTHIS",
-    "path":"sprites/sCHECKTHIS/sCHECKTHIS.yy",
+    "name":"sNew",
+    "path":"sprites/sNew/sNew.yy",
   },
   "spriteMaskId":null,
   "visible":true,
